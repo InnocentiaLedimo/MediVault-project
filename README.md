@@ -5,12 +5,6 @@
 
 ---
 
-## 🌐 Live Preview
-
-> *Currently hosted locally using XAMPP – can be deployed to any LAMP stack.*
-
----
-
 ## 🔧 Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript  
