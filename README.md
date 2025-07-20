@@ -97,4 +97,4 @@
 **Innocentia Ledimo**  
 University of Pretoria 
 
-📬 For questions, collaborations, or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/innocentia-ledimo-637b9622b) and [Email](innocentialedimo@gmail.com).
+📬 For questions, collaborations, or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/innocentia-ledimo-637b9622b) or [Email](mailto:innocentialedimo@gmail.com).
