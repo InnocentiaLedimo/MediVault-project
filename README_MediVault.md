@@ -5,11 +5,6 @@
 
 ---
 
-## 🌐 Live Preview
-
-> *Currently hosted locally using XAMPP – can be deployed to any LAMP stack.*
-
----
 
 ## 🔧 Technologies Used
 
@@ -63,29 +58,28 @@
 
 ---
 
-## 🔐 Security Notes
+## 🚀 How to Run Locally
 
-- Passwords securely handled via PHP sessions
-- Role-based routing prevents unauthorized access
-- Data validation on both frontend and backend
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/LesegoSenamela/MediVault.git
+   ```
+2. Move it to your `htdocs` directory (if using XAMPP)
+   ```bash
+   mv MediVault /xampp/htdocs/
+   ```
+3. Start Apache and MySQL in XAMPP.
+4. Import the database using `phpMyAdmin`. (database setup scripts are available if you require them)
+5. Visit `http://localhost/MediVault` in your browser.
 
 ---
 
-## 🚀 Setup Instructions
+## 🛡 Security Notes
 
-1. Clone the repository or copy files into your `htdocs` folder (XAMPP):
-   ```bash
-   git clone https://github.com/your-username/medivault.git
-   ```
-
-2. Import `database.sql` into phpMyAdmin to create the required schema.
-
-3. Start Apache and MySQL in XAMPP.
-
-4. Access the app at:
-   ```
-   http://localhost/mediVault/
-   ```
+- Input sanitization and SQL injection prevention in progress.
+- Passwords are hashed before storage.
+- Role-based routing prevents unauthorized access
+- Data validation on both frontend and backend
 
 ---
 
@@ -101,6 +95,5 @@
 ## 🧑‍💻 Author
 
 **Innocentia Ledimo**  
-University of Pretoria 
-
-📬 For questions, collaborations, or feedback, feel free to connect with me on LinkedIn.
+University of Pretoria  
+📬 For questions, collaborations, or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/innocentia-ledimo-637b9622b).
