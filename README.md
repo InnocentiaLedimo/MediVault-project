@@ -42,7 +42,7 @@
 ## 📁 Project Structure
 
 ```
-├── mediVault/
+├── MediVault-Project/
 │   ├── index.php               # Landing/login page
 │   ├── register.php            # Patient registration
 │   ├── dashboard/
@@ -69,7 +69,7 @@
 
 1. Clone the repository or copy files into your `htdocs` folder (XAMPP):
    ```bash
-   git clone https://github.com/your-username/medivault.git
+   git clone https://github.com/InnocentiaLedimo/Medivault-project.git
    ```
 
 2. Import `database.sql` into phpMyAdmin to create the required schema.
@@ -78,7 +78,7 @@
 
 4. Access the app at:
    ```
-   http://localhost/mediVault/
+   http://localhost/MediVault-Project/
    ```
 
 ---
@@ -97,4 +97,4 @@
 **Innocentia Ledimo**  
 University of Pretoria 
 
-📬 For questions, collaborations, or feedback, feel free to connect with me on LinkedIn.
+📬 For questions, collaborations, or feedback, feel free to connect with me on LinkedIn(https://www.linkedin.com/in/innocentia-ledimo-637b9622b).
